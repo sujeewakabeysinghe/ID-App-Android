@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ID App</string>
+    <string name="fill_id">add your id number here</string>
+    <string name="click">click</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="visitor">visitor</string>
+    <string name="citizen">citizen</string>
+    <string name="dob">Date of Birth : </string>
+    <string name="nat">Nationality : </string>
+    <string name="gen">Gender : </string>
+    <string name="new_line">\n</string>
+</resources>
